@@ -1,4 +1,4 @@
 openqq_sdk
 ==========
 
-SDK for openQQ
+OpenQQ SDK for golang
