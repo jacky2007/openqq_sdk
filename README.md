@@ -2,8 +2,10 @@ openqq_sdk
 ==========
 
 OpenQQ SDK for golang
-腾讯开放平台V3版OpenAPI的golang SDK
+OpenQQ SDK for golang
+鑵捐寮�鏀惧钩鍙癡3鐗圤penAPI鐨刧olang SDK
 =============================example=========================================
+
 	parmas := make(map[string]string, 10)
 	parmas["openid"] = "11111111111111111"
 	parmas["openkey"] = "2222222222222222"
